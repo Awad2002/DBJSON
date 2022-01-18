@@ -1,16 +1,47 @@
 {
-	"storeName": "ديب اند ديب",
-	"logo": "",
-	"img": "",
-	"categories": [{
-			"id": 1,
-			"img": "",
-			"title": "اسم القسم الاول"
-		},
-		{
-			"id": 2,
-			"img": "",
-			"title": "اسم القسم الثاني"
-		}
-	]
+	"data": {
+        "storeName": "DipAndDip",
+        "logo": "",
+        "img": "",
+        "categories": [
+            {
+                "id": 1,
+                "img": "https://static.zyda.com/cdn-cgi/image/h=432,quality=85,f=auto,metadata=none/photos/menu_sections/photo_urls/4981aa05-b743-45c9-b31a-61d04cb1c55f/original/kashta-box-photo.jpg?1637662465",
+                "title": "اسم القسم الاول"
+            },
+            {
+                "id": 2,
+                "img": "https://static.zyda.com/cdn-cgi/image/h=432,quality=85,f=auto,metadata=none/photos/menu_sections/photo_urls/4981aa05-b743-45c9-b31a-61d04cb1c55f/original/kashta-box-photo.jpg?1637662465",
+                "title": "اسم القسم الثاني"
+            },
+            {
+                "id": 3,
+                "img": "https://static.zyda.com/cdn-cgi/image/h=432,quality=85,f=auto,metadata=none/photos/menu_sections/photo_urls/4981aa05-b743-45c9-b31a-61d04cb1c55f/original/kashta-box-photo.jpg?1637662465",
+                "title": "اسم القسم الثالث"
+            },
+            {
+                "id": 4,
+                "img": "https://static.zyda.com/cdn-cgi/image/h=432,quality=85,f=auto,metadata=none/photos/menu_sections/photo_urls/4981aa05-b743-45c9-b31a-61d04cb1c55f/original/kashta-box-photo.jpg?1637662465",
+                "title": "اسم القسم الرابع"
+            }
+        ],
+        "products": [
+            {
+                "id": 1,
+                "catgId": 1,
+                "img": "https://static.zyda.com/cdn-cgi/image/h=432,quality=85,f=auto,metadata=none/photos/menu_sections/photo_urls/4981aa05-b743-45c9-b31a-61d04cb1c55f/original/kashta-box-photo.jpg?1637662465",
+                "title": "",
+                "desc": "",
+                "price": 20
+            },
+            {
+                "id": 2,
+                "catgId": 1,
+                "img": "https://static.zyda.com/cdn-cgi/image/h=432,quality=85,f=auto,metadata=none/photos/menu_sections/photo_urls/4981aa05-b743-45c9-b31a-61d04cb1c55f/original/kashta-box-photo.jpg?1637662465",
+                "title": "",
+                "desc": "",
+                "price": 15
+            }
+        ]
+    }
 }
