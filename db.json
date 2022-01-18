@@ -2,8 +2,7 @@
 	"storeName": "ديب اند ديب",
 	"logo": "",
 	"img": "",
-	"categories": [
-		{
+	"categories": [{
 			"id": 1,
 			"img": "",
 			"title": "اسم القسم الاول"
