@@ -1,39 +1,17 @@
 {
-	"random": 38,
-	"random float": 89.553,
-	"bool": false,
-	"date": "1989-02-13",
-	"regEx": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world",
-	"enum": "generator",
-	"firstname": "Debee",
-	"lastname": "Gilmour",
-	"city": "Rockhampton",
-	"country": "Central African Republic",
-	"countryCode": "SB",
-	"email uses current data": "Debee.Gilmour@gmail.com",
-	"email from expression": "Debee.Gilmour@yopmail.com",
-	"array": [
-		"Brena",
-		"Raina",
-		"Pollyanna",
-		"Marsiella",
-		"Tobe"
-	],
-	"array of objects": [
+	"storeName": "ديب اند ديب",
+	"logo": "",
+	"img": "",
+	"categories": [
 		{
-			"index": 0,
-			"index start at 5": 5
+			"id": 1,
+			"img": "",
+			"title": "اسم القسم الاول"
 		},
 		{
-			"index": 1,
-			"index start at 5": 6
+			"id": 2,
+			"img": "",
+			"title": "اسم القسم الثاني"
 		},
-		{
-			"index": 2,
-			"index start at 5": 7
-		}
 	],
-	"Danny": {
-		"age": 45
-	}
 }
