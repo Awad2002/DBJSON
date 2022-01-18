@@ -6,7 +6,7 @@
     "id": "",
     "name": "القسم الاول",
     "img": "",
-    "products":[{productId:1,quantity:5},{productId:5,quantity:1}]
+    products:[{productId:1,quantity:5},{productId:5,quantity:1}]
   }
 }
 
