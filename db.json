@@ -6,12 +6,12 @@
       "img": "",
       "products":[
         {
-          id: "1",
-          name: "اسم المنتج",
-          desc: "",
-          img: "",
-          price: "",
-          stock: "",
+          "id": "1",
+          "name": "اسم المنتج",
+          "desc": "",
+          "img": "",
+          "price": "",
+          "stock": "",
         }
       ]
     },
