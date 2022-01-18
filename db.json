@@ -1,19 +1,12 @@
 {
-  "categories": [
-    {
-      "id": 1,
-      "name": "اسم القسم",
-      "img": "",
-      "products":[
-        {
-          "id": "1",
-          "name": "اسم المنتج",
-          "desc": "",
-          "img": "",
-          "price": "",
-          "stock": "",
-        }
-      ]
-    },
-  ]
+  "name": "ديب أند ديب",
+  "logo": "",
+  "background": "",
+  "categories": {
+    "id": "",
+    "name": "القسم الاول",
+    "img": "",
+    "products":[{productId:1,quantity:5},{productId:5,quantity:1}]
+  }
 }
+
